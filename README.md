@@ -1,2 +1,2 @@
 # Programming Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,ruby,rust,c#,go" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,ruby,rust,cs,go" />
